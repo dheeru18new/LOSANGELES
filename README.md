@@ -1,3 +1,2 @@
 
-
-![screencapture-file-C-Users-FixityEdx-Downloads-COMPLETE-INDEX1-HTML-2024-06-20-14_00_16](https://github.com/dheeru18new/LOSANGELES/assets/60806419/2329ccc7-f79e-4693-b086-1c47c75dabd3)
+![screencapture-file-C-Users-FixityEdx-Downloads-LOSANGELES-INDEX1-HTML-2024-06-20-15_52_39](https://github.com/dheeru18new/LOSANGELES/assets/60806419/189cba12-4159-48a9-a62d-689a39c7259e)
