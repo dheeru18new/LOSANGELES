@@ -88,6 +88,7 @@ h5 {
     align-content: center;
 }
 
+
 .dotclass {
     display: flex;
     justify-content: center;
@@ -112,6 +113,8 @@ h5 {
     background-color: #9b9b9b;
     border-radius: 50%;
 }
+
+
 
 .text {
     height: 15vh;
