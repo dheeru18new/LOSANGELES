@@ -88,7 +88,30 @@ h5 {
     align-content: center;
 }
 
+.dotclass {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100vw;
+    height: 100vh;
+    position: relative;
+}
 
+.Dots {
+    display: flex;
+    gap: 1vw;
+    background-color: transparent;
+    position: absolute;
+    bottom: 773px ; 
+}
+
+.dot {
+    display: inline-block;
+    height: 1vh;
+    width: 1vh;
+    background-color: #9b9b9b;
+    border-radius: 50%;
+}
 
 .text {
     height: 15vh;
