@@ -1,0 +1,212 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.body{
+    margin: 0;
+    padding:0;
+}
+.firstimage{
+    position:relative;
+    
+}
+.bannertext{
+    position: absolute;
+    top: 15%;
+    left: 35%;
+    height: 250px;
+    width: 400px;
+}
+.bannerimg{
+    background-size: cover;
+    height: 100vh;
+    width: 100vw;
+    position: relative;
+    z-index: -1;
+    margin-left: -20px;
+    margin-right: -20px;
+}
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    width: 70vw;
+    margin-left: 15vw;
+}
+
+.nav {
+    display: flex;
+}
+
+img {
+    padding: 20px;
+    height: 30px;
+    width: 30px;
+}
+
+
+h5 {
+    padding: 5px;
+    margin: 5px;
+    font-size: 20px;
+    text-decoration: underline;
+}
+
+.firstgap {
+    height: 8vh;
+    width: 100vw;
+    background-color: white;
+    align-content: center;
+}
+
+.secondImage {
+    background-image: url(tab2.png);
+    background-size: cover;
+    object-fit: cover;
+    height: 110vh;
+    width: 100vw;
+    z-index: -1;
+}
+
+
+.smallgap {
+    height: 5vh;
+    width: 100vw;
+    background-color: rgba(8, 27, 68, 0.623);
+    
+}
+.tab-container{
+    margin-left: 20vw;
+}
+.thirdImage {
+    background-image: url(tab2.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 75vh;
+    width: 100vw;
+    z-index: -1;
+    align-content: center;
+}
+
+
+
+.text {
+    height: 15vh;
+    width: 50vw;
+    margin: auto;
+    padding: 8vh;
+}
+
+.images {
+    background-color: transparent !important;
+    display: flex;
+    margin: auto;
+    width: 100vw;
+    height: 30vh;
+    justify-items: center;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50vh;
+    background-color: rgba(0, 119, 255, 0.534);
+}
+
+.imagslides {
+    height: 25vh;
+    width: 15vw;
+}
+
+.number {
+    display: block;
+    font-size: 70px;
+    font-family: sans-serif;
+    margin-left: -7vw;
+}
+
+.history {
+    font-size: 40px;
+}
+
+.secondgap {
+    width: 50vw;
+    margin: auto;
+    padding: 5vh;
+    align-items: center;
+    height: 10vh;
+    background-color: rgb(252, 252, 252);
+}
+
+.climb02{
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    left: 250px;
+    top: 1800px; 
+}
+
+.climb01{
+    height: 100px;
+    width: 100px;
+    position: absolute;
+    left: 275px;
+    top: 950px; 
+}
+
+
+.schedule {
+    height: 250px;
+    width: 250px;
+    position: absolute;
+    left: 220px;
+    top: 2000px; 
+
+}
+
+.mountain {
+    background-color: rgba(250, 235, 215, 0.411);
+    padding: 5px;
+}
+
+.dates {
+    height: 25vh;
+    width: 20vw;
+    margin: auto;
+    margin-left: 23vw;
+    margin-top: -10vh;
+    background-color: rgba(230, 234, 238, 0.856);
+    padding: 20px;
+}
+
+
+.footer {
+    background-color: rgba(8, 27, 68, 0.623);
+}
+
+.lostext {
+    width: 50vw;
+    margin: auto;
+    padding: 5vh;
+    position: absolute;
+    top: 200px;
+    z-index: -1;
+    left: 400px;
+    font-size: 3em;
+    font-weight: 700;
+}
+
+
+
+.tablink1 {
+    color:white;
+    background-color: rgba(97, 77, 77, 0.712);
+    font-size: 2em;
+    border-bottom: none;
+    border-top: none;
+    border-left: none;
+}
+
+.tablink {
+    background-color: transparent !important;
+    color: rgb(255, 255, 255) !important;
+    border: none !important;
+    font-size: 2em;
+}
